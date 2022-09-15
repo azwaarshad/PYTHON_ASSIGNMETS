@@ -1,1 +1,1 @@
-# PYTHON_ASSIGNMETS_PIAIC
+# Python_Assignments_PIAIC
